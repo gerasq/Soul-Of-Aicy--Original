@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 739c4607eddaaf64db07411680ad7b72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17422
+  packageName: Ultimate Orbit Camera
+  packageVersion: 1.0
+  assetPath: Assets/Ultimate Orbit Camera/Scripts/DEMO_UOC_GUI.cs
+  uploadId: 6196

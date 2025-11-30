@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d09c8f975d6d94d46965e406ab3e5f36
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 245753
+  packageName: Complete Inventory and Looting System
+  packageVersion: 1.0.0
+  assetPath: Assets/Complete Inventory & Looting System/Prefabs/Inventory/Empty Slot_BG.prefab
+  uploadId: 660512

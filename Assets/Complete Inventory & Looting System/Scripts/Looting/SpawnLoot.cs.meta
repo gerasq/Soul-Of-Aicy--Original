@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c3e13517747d1d446b1ffcc8d45d83b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 245753
+  packageName: Complete Inventory and Looting System
+  packageVersion: 1.0.0
+  assetPath: Assets/Complete Inventory & Looting System/Scripts/Looting/SpawnLoot.cs
+  uploadId: 660512

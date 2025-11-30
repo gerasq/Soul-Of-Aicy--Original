@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 50872b494dd1f9145b877fbdfa855927
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17422
+  packageName: Ultimate Orbit Camera
+  packageVersion: 1.0
+  assetPath: Assets/Ultimate Orbit Camera/Scripts/UltimateOrbitCamera.cs
+  uploadId: 6196

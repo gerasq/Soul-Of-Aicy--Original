@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c003c94bc61a3324e99f0f48b1c680aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 245753
+  packageName: Complete Inventory and Looting System
+  packageVersion: 1.0.0
+  assetPath: Assets/Complete Inventory & Looting System/Materials/Dark Green.mat
+  uploadId: 660512

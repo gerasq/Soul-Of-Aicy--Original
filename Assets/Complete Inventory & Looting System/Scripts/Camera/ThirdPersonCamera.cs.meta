@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7e49c87b43003454b9be6b4090402391
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 245753
+  packageName: Complete Inventory and Looting System
+  packageVersion: 1.0.0
+  assetPath: Assets/Complete Inventory & Looting System/Scripts/Camera/ThirdPersonCamera.cs
+  uploadId: 660512

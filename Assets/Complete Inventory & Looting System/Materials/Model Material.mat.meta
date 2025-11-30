@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b8e0759b1d99dd4f8723db0c5c09396
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 245753
+  packageName: Complete Inventory and Looting System
+  packageVersion: 1.0.0
+  assetPath: Assets/Complete Inventory & Looting System/Materials/Model Material.mat
+  uploadId: 660512

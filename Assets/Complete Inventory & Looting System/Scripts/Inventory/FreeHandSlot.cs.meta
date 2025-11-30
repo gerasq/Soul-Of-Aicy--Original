@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 37c79f7cb4bc37a4ba25f7f448b51418
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 245753
+  packageName: Complete Inventory and Looting System
+  packageVersion: 1.0.0
+  assetPath: Assets/Complete Inventory & Looting System/Scripts/Inventory/FreeHandSlot.cs
+  uploadId: 660512

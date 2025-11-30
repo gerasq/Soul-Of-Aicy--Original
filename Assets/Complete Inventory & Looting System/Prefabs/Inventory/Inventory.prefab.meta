@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a0e18eefb0b1ce45aa15d8a6461a11a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 245753
+  packageName: Complete Inventory and Looting System
+  packageVersion: 1.0.0
+  assetPath: Assets/Complete Inventory & Looting System/Prefabs/Inventory/Inventory.prefab
+  uploadId: 660512

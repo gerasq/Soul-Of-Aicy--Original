@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2ccde85a08eed204abfa41d3f1d7970a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 245753
+  packageName: Complete Inventory and Looting System
+  packageVersion: 1.0.0
+  assetPath: Assets/Complete Inventory & Looting System/Scripts/Looting/LootIcon.cs
+  uploadId: 660512
