@@ -5294,7 +5294,7 @@ Transform:
   m_GameObject: {fileID: 157207112}
   serializedVersion: 2
   m_LocalRotation: {x: 0.38268343, y: 0, z: 0, w: 0.92387956}
-  m_LocalPosition: {x: 0, y: 3.39, z: 0.39}
+  m_LocalPosition: {x: 0, y: 4.95, z: 0.615}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -20476,7 +20476,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3979517459710057900, guid: cd965ac31d93e6940be0386880dd9116, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.13175002
+      value: 0.1108
       objectReference: {fileID: 0}
     - target: {fileID: 3979517459710057900, guid: cd965ac31d93e6940be0386880dd9116, type: 3}
       propertyPath: m_LocalPosition.z
@@ -35640,7 +35640,7 @@ Transform:
   m_GameObject: {fileID: 496344678}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.017, y: -0.017, z: 0.0072}
+  m_LocalPosition: {x: -0.017, y: -0.0214, z: 0.0072}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -116524,7 +116524,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3979517459710057900, guid: cd965ac31d93e6940be0386880dd9116, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.13175002
+      value: 0.1058
       objectReference: {fileID: 0}
     - target: {fileID: 3979517459710057900, guid: cd965ac31d93e6940be0386880dd9116, type: 3}
       propertyPath: m_LocalPosition.z
@@ -137261,7 +137261,7 @@ Transform:
   m_GameObject: {fileID: 1855274965}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.206, y: -0.096, z: 3.925}
+  m_LocalPosition: {x: -0.206, y: -0.102, z: 3.925}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -137387,6 +137387,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1873081366288477554, guid: f649e90401a13684ca908f8bcb07fa03, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0858
+      objectReference: {fileID: 0}
     - target: {fileID: 1873081366290247570, guid: f649e90401a13684ca908f8bcb07fa03, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -137438,7 +137442,7 @@ Transform:
   m_GameObject: {fileID: 1882014191}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.027, y: 0.065, z: -0.024}
+  m_LocalPosition: {x: 0.0014, y: -0.0929, z: -0.024}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -152562,6 +152566,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5272635928066791863, guid: eec61d2e117ee7045b808df231c61985, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0312
+      objectReference: {fileID: 0}
     - target: {fileID: 5272635928067016085, guid: eec61d2e117ee7045b808df231c61985, type: 3}
       propertyPath: m_Name
       value: prefab_Mushroom_Armillaria_01 (5)
@@ -157678,6 +157686,10 @@ PrefabInstance:
     - target: {fileID: 3979517459710057900, guid: cd965ac31d93e6940be0386880dd9116, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3979517459710057902, guid: cd965ac31d93e6940be0386880dd9116, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0085
       objectReference: {fileID: 0}
     - target: {fileID: 3979517459710083468, guid: cd965ac31d93e6940be0386880dd9116, type: 3}
       propertyPath: m_Name
