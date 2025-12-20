@@ -13,6 +13,7 @@ Material:
   m_ModifiedSerializedProperties: 20
   m_ValidKeywords:
   - _ALPHATEST_ON
+  - _DETAIL_MAP
   - _DISABLE_DECALS
   - _DISABLE_SSR_TRANSPARENT
   - _MATERIAL_FEATURE_TRANSMISSION
