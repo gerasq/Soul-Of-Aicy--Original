@@ -1,0 +1,81 @@
+# =========================
+# UNITY CORE
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# =========================
+# BUILDS
+# =========================
+[Bb]uild/
+[Bb]uilds/
+Build*/
+Builds*/
+
+# =========================
+# IDE / OS
+# =========================
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# UNITY GENERATED / CACHE
+# =========================
+sysinfo.txt
+mono_crash.*
+crashlytics-build.properties
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# =========================
+# ADDRESSABLES / STREAMING
+# =========================
+/ServerData/
+/Assets/StreamingAssets/aa*
+/Assets/AddressableAssetsData/
+/Assets/Addressables_Temp/
+
+# =========================
+# PACKAGE CACHE
+# =========================
+/Assets/PackagesCache/
+/Library/PackageCache/
+
+# =========================
+# LARGE / GENERATED FILES (NEVER IN GIT)
+# =========================
+*.bytes
+*.apk
+*.aab
+*.app
+*.unitypackage
+*.zip
+*.rar
+*.7z
+*.mp4
+*.mov
+*.avi
+*.blend
+*.blend1
+
+# =========================
+# UNITY NO-ASSETS MODE
+# =========================
+Assets/**/*
+!Assets/**/*.meta
+
